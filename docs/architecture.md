@@ -23,8 +23,6 @@ flowchart LR
     class L log;
 ```
 
-![Architecture diagram](architecture.png)
-
 ## System boundaries
 | The system does | The system does not |
 |---|---|
